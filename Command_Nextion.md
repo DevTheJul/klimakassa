@@ -1,0 +1,1 @@
+holz.txt="Holz hast du verbraucht"
